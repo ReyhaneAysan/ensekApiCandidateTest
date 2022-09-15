@@ -1,0 +1,7 @@
+1) Orders do not come in order (by date order)
+2)I can write negative scenarios, but I do not have enough time, I am so busy because of interviews.
+So I did not create negative tests.
+-We can put negative numbers
+-We can put infinite numbers
+-We can put String values instead of integer values (id).......
+After that we can verify the status code or message from json body
